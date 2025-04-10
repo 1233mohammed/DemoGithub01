@@ -1,0 +1,2 @@
+ici on simule  comme quoi un collégue qui rajooute son code ou jsp koi sur son ordinateur pour que je puisse le voir sur GitHub(logiciel).==> 
+comme une nouvelle verssion de notre travail que je dois recuperer et de travailler dessue.
